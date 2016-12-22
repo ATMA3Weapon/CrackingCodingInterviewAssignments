@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "Chapter1_Assignment1", "Chapter1_Assignment1.visualdproj", "{8B8030D7-3DAF-4BC6-88CC-169CB81D683B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8030D7-3DAF-4BC6-88CC-169CB81D683B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B8030D7-3DAF-4BC6-88CC-169CB81D683B}.Debug|x86.Build.0 = Debug|Win32
+		{8B8030D7-3DAF-4BC6-88CC-169CB81D683B}.Release|x86.ActiveCfg = Release|Win32
+		{8B8030D7-3DAF-4BC6-88CC-169CB81D683B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
